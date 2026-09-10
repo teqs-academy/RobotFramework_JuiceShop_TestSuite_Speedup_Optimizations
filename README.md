@@ -23,8 +23,8 @@ Make sure you have:
 Clone and install the project
 
 ```bash
-git clone https://github.com/teqs-academy/RobotFramework_Python_JuiceShop_Tutorial
-cd RobotFramework_Python_JuiceShop_Tutorial
+git clone https://github.com/teqs-academy/RobotFramework_JuiceShop_TestSuite_Speedup_Optimizations
+cd RobotFramework_JuiceShop_TestSuite_Speedup_Optimizations
 python -m pip install -e .
 rfbrowser init
 ```

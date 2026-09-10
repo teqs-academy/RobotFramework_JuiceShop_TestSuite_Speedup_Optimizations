@@ -8,7 +8,7 @@ Suite Teardown      Close Shared Browser
 Test Setup          Open Shop Page In Shared Browser
 Test Teardown       Close Current Shop Page
 
-Test Tags           ui    accounta
+Test Tags           ui    account
 
 
 *** Test Cases ***
